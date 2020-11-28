@@ -4,7 +4,7 @@ namespace Day3_Task1
 {
     class Program
     {
-        // ●	Write a C# Sharp program to find whether a given year is a leap year or not. 
+       // 	Write a C# Sharp program to find whether a given year is a leap year or not. 
         static void Main(string[] args)
         {
             Console.Write("Enter Year : ");  
